@@ -8,3 +8,7 @@ Throughout the financial sector, machine learning algorithms are being developed
 Furthermore, using metrics such as precision, recall, and F1-scores, I will be investigating why the classification accuracy for these algorithms can be misleading.
 
 In addition, I will be exploring the use of data visualization techniques common in data science, such as parameter histograms and correlation matrices, to gain a better understanding of the underlying distribution of data in our data set.
+
+Competition Link: https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+Dataset Link: https://www.kaggle.com/mlg-ulb/creditcardfraud/downloads/creditcardfraud.zip/3
